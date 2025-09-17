@@ -7,3 +7,8 @@ numpy
 soundfile
 wavio
 pygame
+
+langgraph 
+langchain-groq
+langchain-tavily 
+git+https://github.com/weatherapicom/python.git#egg=weatherapipython
