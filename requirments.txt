@@ -1,0 +1,9 @@
+requests
+aiohttp
+sounddevice
+python-dotenv
+groq
+numpy
+soundfile
+wavio
+pygame
