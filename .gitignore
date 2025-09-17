@@ -1,4 +1,5 @@
 .env
 notebook.ipynb
 database
-audio
+audio/response.wav
+audio/temp_input.wav
